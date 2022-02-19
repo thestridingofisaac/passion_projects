@@ -1,0 +1,11 @@
+##
+# This program takes input from the user requesting the question number and outputs the question. The user can then
+# attempt to answer the question. An output is then sent to show if the input was right or wrong. If wrong, the user
+# can try to answer again. If right, the user input another question number or ends the program.
+#
+# All questions taken from the New City Catechism.
+#
+
+# assign numbers to Qs & As
+
+# ask for input from 
