@@ -1,11 +1,32 @@
 ##
 # This program takes input from the user requesting the question number and outputs the question. The user can then
 # attempt to answer the question. An output is then sent to show if the input was right or wrong. If wrong, the user
-# can try to answer again. If right, the user input another question number or ends the program.
+# can try to answer again. They are also able to ask for a hint that gradually shows the correct answer until fully 
+# revealed. If right, the user input another question number or ends the program.
 #
 # All questions taken from the New City Catechism.
 #
 
-# assign numbers to Qs & As
+# ask for number input from the user
+i = int(input("Please enter a number between 1 and 52: ")
 
-# ask for input from 
+# a question is then output
+
+# user is prompted to answer
+
+# "wrong" or "right" indication is output
+
+# if wrong, user is asked if they want to try again or be given a hint
+
+# if right, user is asked if they want to answer another question or end the program
+
+# if program is ended, send a departing word before ending
+
+
+# assign numbers to Qs and As
+Q1 = 1
+Q2 = 2
+
+# define questions
+Q1 = "What is our only hope in life and death?"
+A1 = "That we are not our own but belong, body and soul, both in life and death, to God and to our Savior Jesus Christ."
